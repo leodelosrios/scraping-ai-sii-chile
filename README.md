@@ -7,7 +7,8 @@ Este proyecto permite hacer scraping al **Servicio de Impuestos Internos de Chil
 - 📄 **Scraping** de datos desde el SII Chile.
 - 🤖 **Resolución automática de CAPTCHA** usando IA.
 - 🔑 **Integración con la API de Google Gemini**.
-- 🔧 **Fácil configuración con archivo **``.
+- 🌐 **Selenium** y **Chormedriver**.
+- 🔧 **Fácil configuración**.
 
 ## 📌 Requisitos
 
@@ -15,6 +16,8 @@ Antes de ejecutar el proyecto, asegúrate de contar con:
 
 - 🐍 Python 3.8 o superior
 - 🔗 Una cuenta en **Google AI** y una clave de API válida [Obtener aquí](https://ai.google.dev/)
+- 🌐 Google Chrome [Obtener aquí](https://www.google.com/intl/es_us/chrome/)
+- 💡 Chromedriver [Obtener aquí](https://googlechromelabs.github.io/chrome-for-testing/)
 - 📦 Dependencias necesarias (instalables con `pip`)
 
 ## 🔧 Instalación y configuración
@@ -71,19 +74,8 @@ python main.py
 
 ## 📜 Licencia
 
-Este proyecto está bajo la licencia **MIT**. Siéntete libre de usarlo y contribuir. 🚀
-
-## ✨ Contribuciones
-
-¡Toda ayuda es bienvenida! Para colaborar:
-
-1. **Fork** el repositorio.
-2. Crea una **rama** (`git checkout -b feature-nueva`).
-3. Realiza tus cambios y haz un **commit** (`git commit -m "Agrego nueva funcionalidad"`).
-4. Haz un **push** (`git push origin feature-nueva`).
-5. Abre un **Pull Request**.
+Todos los derechos reservados.
 
 ## 💡 Créditos
 
-Desarrollado por [Tu Nombre](https://github.com/tuusuario). Si este proyecto te fue útil, ¡considera darle una ⭐ en GitHub!
-# scraping-ai-sii-chile
+Desarrollado por [Leonardo de los Rios](https://github.com/leodelosrios). Si este proyecto te fue útil, ¡considera darle una ⭐ en GitHub!
